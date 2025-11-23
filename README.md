@@ -1,16 +1,25 @@
-## Hi there 👋
+# Dillon Boatman
 
-<!--
-**dillon-1999/dillon-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior systems developer focused on high-performance backend and network tooling.
 
-Here are some ideas to get you started:
+## What I’m working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building monitoring and automation for ISP/telecom networks
+- Writing backend services in Go and Python
+- Exploring infra/controls/SCADA and large-scale observability
+
+## Tech & interests
+
+- **Languages:** Go, Python, JavaScript, SQL
+- **Domains:** network programming, monitoring/observability, telecom/ISP infra, linux
+- **Tools:** Django, PostgreSQL, Redis, Prometheus, Docker, Kubernetes (learning), GitHub Actions
+
+## Certifications
+
+- CompTIA Network +
+- MikroTik MTCNA (MikroTik Certified Network Associate)
+- MikroTik MTCRE (MikroTik Certified Routing Engineer)
+
+## Elsewhere
+
+- LinkedIn: www.linkedin.com/in/dillon-boatman-865b5b174
