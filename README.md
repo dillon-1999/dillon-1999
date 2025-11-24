@@ -6,7 +6,7 @@ Senior systems developer focused on high-performance backend and network tooling
 
 - Building monitoring and automation for ISP/telecom networks
 - Writing backend services in Go and Python
-- Exploring infra/controls/SCADA and large-scale observability
+- Exploring infra/controls/electronics/observability
 
 ## Tech & interests
 
